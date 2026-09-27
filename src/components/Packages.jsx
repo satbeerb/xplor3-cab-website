@@ -1,6 +1,6 @@
-import ujjainImage from "../assets/destinations/ujjain.jpg";
-import omkareshwarImage from "../assets/destinations/omkareshwar.jpg";
-import indoreImage from "../assets/destinations/indore.jpg";
+import ujjainImage from "../assets/destinations/Ujjain.jpg";
+import omkareshwarImage from "../assets/destinations/Omkareshwar.jpg";
+import indoreImage from "../assets/destinations/Indore.jpg";
 
 const packages = [
   {
